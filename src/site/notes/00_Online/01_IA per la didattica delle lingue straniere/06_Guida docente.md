@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/06_Guida docente.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/06-guida-docente/","created":"2025-09-25"}
 ---
 
-# **GUIDA PER IL DOCENTE: 
+# **GUIDA PER IL DOCENTE:** 
 ## Implementare l'IA generativa nella classe per l'insegnamento delle lingue straniere**
 
 ---
