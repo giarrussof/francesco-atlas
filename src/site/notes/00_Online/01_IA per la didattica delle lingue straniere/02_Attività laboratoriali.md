@@ -7,7 +7,7 @@
 
 ---
 
-## **LABORATORIO 1: GRAMMATICA ASSISTITA
+## **LABORATORIO 1: GRAMMATICA ASSISTITA**
 
 ### 🎯 **Obiettivo:** Consolidare strutture grammaticali con feedback personalizzato
 
@@ -248,7 +248,7 @@ Usa linguaggio incoraggiante."
 
 ## **GESTIONE PRATICA DEL CORSO**
 
-### ⏰ **Programma della Giornata**
+### ⏰ **Programma della giornata**
 
 **9:00-10:30** - Laboratorio 1: Grammatica Assistita  
 *Pausa 15 min*  
@@ -260,7 +260,7 @@ Usa linguaggio incoraggiante."
 *Pausa 15 min*  
 **16:45-17:30** - Q&A, problemi tecnici, pianificazione implementazione
 
-### 🛠️ **Setup Tecnico Minimo**
+### 🛠️ **Setup tecnico minimo**
 
 **Per il docente formatore:**
 - 1 laptop con ChatGPT Plus
@@ -284,22 +284,22 @@ Usa linguaggio incoraggiante."
 
 ## **VANTAGGI RISPETTO AD ATTIVITÀ SPERIMENTALI**
 
-### ✅ **Immediatamente Replicabili**
+### ✅ **Immediatamente replicabili**
 - Ogni attività può essere usata in classe dal giorno dopo
 - Non richiede competenze tecniche avanzate
 - Si adatta a qualsiasi lingua straniera
 
-### ✅ **Allineate agli Obiettivi Curricolari**
+### ✅ **Allineate agli obiettivi curricolari**
 - Focus su competenze B2 del QCER
 - Supportano preparazione certificazioni (FCE, DELF, Goethe, DELE)
 - Integrabili nella programmazione esistente
 
-### ✅ **Gradualmente Scalabili**
+### ✅ **Gradualmente scalabili**
 - Docenti principianti: usano prompt già pronti
 - Docenti intermedi: modificano prompt per le proprie classi
 - Docenti avanzati: creano variazioni creative
 
-### ✅ **Misurabili e Valutabili**
+### ✅ **Misurabili e valutabili**
 - Ogni attività ha obiettivi specifici e verificabili
 - Possibilità di documentare progressi studenti
 - Feedback concreto su efficacia didattica

@@ -50,7 +50,7 @@ Situazioni Pratiche:
 
 ---
 
-### **📚 METODO 2: VOCABULARY ACQUISITION (Acquisizione Lessicale)**
+### **📚 METODO 2: VOCABULARY ACQUISITION (acquisizione lessicale)**
 
 #### **Strategie Evidence-Based**
 
@@ -97,9 +97,9 @@ Tipi di Test Generabili:
 
 ---
 
-### **🗣️ METODO 3: PRONUNCIATION PRACTICE (Pratica della Pronuncia)**
+### **🗣️ METODO 3: PRONUNCIATION PRACTICE (pratica della pronuncia)**
 
-#### **Tecnologie Integrate**
+#### **Tecnologie integrate**
 
 **A. Voice Recognition Feedback**
 - **Principio**: ChatGPT trascrive correttamente solo se pronuncia è chiara
@@ -134,7 +134,7 @@ Protocollo didattico:
 
 ---
 
-### **📖 METODO 4: GRAMMAR PRACTICE (Pratica Grammaticale)**
+### **📖 METODO 4: GRAMMAR PRACTICE (pratica grammaticale)**
 
 #### **Approccio contestualizzato**
 
@@ -284,7 +284,7 @@ Developmental Stages:
 - Accuratezza grammaticale: 50-70%
 - Indispensabile consultazione esperti madrelingua
 
-### **🎯 Raccomandazioni Pre-Uso**
+### **🎯 Raccomandazioni pre-uso**
 1. **Testare accuratezza** nella lingua specifica prima dell'implementazione
 2. **Identificare bias culturali** ricorrenti nel modello
 3. **Preparare risorse di verifica** alternative

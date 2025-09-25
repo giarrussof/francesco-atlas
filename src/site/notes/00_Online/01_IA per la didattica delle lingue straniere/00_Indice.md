@@ -21,7 +21,7 @@
 
 ---
 
-## **📋 STRUTTURA MODULARE COMPLETA 
+## **📋 STRUTTURA MODULARE COMPLETA** 
 
 ### **MODULO 0: ALFABETIZZAZIONE IA - FONDAMENTI OPERATIVI**
 **🎯 Obiettivo:** Acquisire padronanza tecnica di base con IA generativa e prompt design
@@ -102,7 +102,7 @@
 
 ---
 
-## ## **📊 MATERIALI DI SUPPORTO TRASVERSALE**
+## **📊 MATERIALI DI SUPPORTO TRASVERSALE**
 
 #### [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|Guida per il docente]]
 

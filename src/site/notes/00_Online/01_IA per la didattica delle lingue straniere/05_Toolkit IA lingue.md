@@ -304,7 +304,7 @@ Studenti sono viaggiatori del tempo bloccati in epoche diverse. Devono comunicar
 
 ## **SEZIONE 3: RUBRICHE DI VALUTAZIONE**
 
-### 📊 **RUBRICA GENERALE: Uso Etico e Creativo dell'IA**
+### 📊 **RUBRICA GENERALE: Uso etico e creativo dell'IA**
 
 | Criterio                   | Eccellente (4)                                           | Buono (3)                                          | Sufficiente (2)                                | Insufficiente (1)                     |
 | -------------------------- | -------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- | ------------------------------------- |
@@ -358,7 +358,7 @@ Studenti sono viaggiatori del tempo bloccati in epoche diverse. Devono comunicar
 
 ### 🔧 **CONFIGURAZIONI TECNICHE CONSIGLIATE**
 
-#### **Setup Ottimale per Docenti:**
+#### **Setup ottimale per docenti:**
 - **Account educativo ChatGPT Plus:** Per funzioni avanzate e limiti estesi
 - **Google AI Studio gratuito:** Per sperimentazione e customizzazione
 - **ElevenLabs voce:** Account base per sintesi vocale realistica

@@ -7,7 +7,7 @@
 
 ---
 
-## **Progettazione di UdA "Post-Digitali"**
+## **Progettazione di UdA "post-digitali"**
 
 ### 📋 **Framework per Unità di Apprendimento ibride**
 
@@ -80,7 +80,7 @@ VALUTATIVO: [Come documento l'apprendimento]
 5. **Publication**: Condivisione rispettosa con comunità di origine
 
 
-### 📺 **2. "Podcast Multilingue impossibile"**
+### 📺 **2. "Podcast multilingue impossibile"**
 
 **Obiettivo:** Competenza orale + editing audio + prospettive multiple
 
@@ -93,7 +93,7 @@ VALUTATIVO: [Come documento l'apprendimento]
 ---
 
 
-## **Valutazione nell'Era dell'IA - Oltre il Plagio**
+## **Valutazione nell'era dell'IA - oltre il plagio**
 
 ### 📊 **Nuovi paradigmi valutativi**
 

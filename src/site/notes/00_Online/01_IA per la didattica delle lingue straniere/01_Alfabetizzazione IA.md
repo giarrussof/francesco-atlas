@@ -51,7 +51,7 @@ Il campo dell'Intelligenza Artificiale generativa è vasto e in continua evoluzi
 Chi era Medusa?
 ```
 
-### **2. Conversazioni Guidate**
+### **2. Conversazioni guidate**
 **Caratteristiche:**
 - Inizio con domanda generica
 - Perfezionamento successivo con dettagli/limitazioni
@@ -63,7 +63,7 @@ Prompt iniziale: Chi era Medusa?
 Prompt successivo: Cosa rappresentano i serpenti sulla sua testa?
 ```
 
-### **3. Conversazioni Esplorative**
+### **3. Conversazioni esplorative**
 **Caratteristiche:**
 - Domanda generale e poco definita iniziale
 - Uso IA per esplorare argomento e generare nuove domande
@@ -76,7 +76,7 @@ Prompt successivo: Cosa rappresentano i serpenti sulla sua testa?
 Prompt ulteriore: Qual è il significato simbolico del suo sguardo pietrificante?
 ```
 
-### **4. Conversazioni di Cesello**
+### **4. Conversazioni di cesello**
 **Caratteristiche:**
 - Esplorazione vari aspetti stesso argomento
 - Approfondimento da diverse prospettive
@@ -89,7 +89,7 @@ Prompt successivo: Medusa ha un significato simbolico?
 Prompt ulteriore: In quali opere d'arte famose appare Medusa?
 ```
 
-### **5. Conversazioni Precise**
+### **5. Conversazioni precise**
 **Caratteristiche:**
 - Argomento ben definito fin dall'inizio
 - Prompt molto specifico con contesto e dettagli formato
@@ -239,7 +239,7 @@ Risultati di apprendimento: Gli studenti comprendono il ciclo dell'acqua e il su
 impatto sugli ecosistemi."
 ```
 
-### **Prompt Completo Livello Intermedio**
+### **Prompt completo livello intermedio**
 
 ```
 [CONTESTO + COMPITO + ISTRUZIONI - come livello base]
@@ -264,7 +264,7 @@ il ciclo dell'acqua e il suo impatto sugli ecosistemi."
 
 ## **⚡ PROMPT DESIGN: LIVELLO PRO**
 
-### **Tecniche avanzate di Prompting**
+### **Tecniche avanzate di prompting**
 
 #### **1. Delimitatori**
 **Scopo**: Indicare a GPT i vari elementi che compongono il prompt
@@ -341,7 +341,7 @@ Quanti libri ha adesso Giulia?
 Risposta: Giulia ha 14 libri.
 ```
 
-#### **5. Procedimento Step-by-Step**
+#### **5. Procedimento step-by-step**
 **Scopo**: Guidare GPT nella generazione seguendo processo a passaggi
 
 **Esempio:**
@@ -355,7 +355,7 @@ Passo 2 - Traduci il riassunto della fase 1 in portoghese,
 preceduto dal prefisso "Traduzione: ".
 ```
 
-#### **6. Allungamento processo Output**
+#### **6. Allungamento processo output**
 **Scopo**: Guidare GPT a sviluppare ragionamenti più articolati
 
 **Confronto:**
@@ -479,9 +479,9 @@ sia per chi ha già una certa familiarità con l'astronomia."
 
 ## **📄 SCRITTURA CONTENUTI: ARTICOLI**
 
-### **Struttura Completa Articolo**
+### **Struttura completa articolo**
 
-#### **Sezioni Principali**
+#### **Sezioni principali**
 - **Idea**: Concept iniziale
 - **Titolo**: Headline principale
 - **Occhiello**: Sottotitolo esplicativo
@@ -489,7 +489,7 @@ sia per chi ha già una certa familiarità con l'astronomia."
 - **Paragrafi**: Sviluppo contenuto
 - **Conclusione**: Sintesi e call-to-action
 
-#### **Elementi di Supporto**
+#### **Elementi di supporto**
 - **Fonti**: Bibliografia e referenze
 - **Struttura**: Organizzazione logica
 - **Sezioni**: Suddivisione tematica
@@ -626,7 +626,7 @@ con apprendimenti rilevanti e racconti avvincenti e fornendogli chiari punti
 d'azione su ciò che dovrebbe fare dopo aver letto la sezione.
 ```
 
-#### **Prompt 06: Scrittura sezione Step-by-Step**
+#### **Prompt 06: Scrittura sezione step-by-step**
 ```
 Ora, basandoti sulla struttura precedente, scrivi la sezione in dettaglio, 
 step by step, un paragrafo alla volta.
@@ -692,7 +692,7 @@ professionale pronto per la pubblicazione.
 
 ## **🎯 SCRITTURA CONTENUTI: PRESENTAZIONI**
 
-### **Template Base presentazioni**
+### **Template base presentazioni**
 
 ```
 Sei un insegnante esperto nella creazione di presentazioni educative.
@@ -714,7 +714,7 @@ della presentazione.
 Ispirati al tono, stile e struttura usando questo esempio: [ESEMPIO RIFERIMENTO].
 ```
 
-### **Follow-up Prompt dettagliato**
+### **Follow-up prompt dettagliato**
 
 ```
 Ora scrivi in dettaglio i contenuti della prima slide, in due formati:
@@ -735,7 +735,6 @@ oppure
 
 ### **Tool consigliati per presentazioni**
 - **Gamma.app**: https://gamma.app/
-- **Tome.app**: https://tome.app/
 
 ---
 
@@ -868,7 +867,7 @@ come [AUTORE RIFERIMENTO].
 - **Jasper AI**: https://www.jasper.ai/
 - **Hypotenuse AI**: https://it.hypotenuse.ai/
 
-### **Tool Vari e specializzati**
+### **Tool vari e specializzati**
 - **Character.AI**: https://character.ai/
 - **PromptBase**: https://promptbase.com/
 - **PromptHero**: https://prompthero.com/
@@ -897,26 +896,26 @@ come [AUTORE RIFERIMENTO].
 
 ### **Applicazioni Creative**
 
-#### **Trasformazione Stile**
+#### **Trasformazione stile**
 **Esempio Prompt:**
 ```
 Ispirati a questa immagine per crearne una simile, ma con uno stile da cartone animato.
 ```
 
-#### **Fusione Creativa**
+#### **Fusione creativa**
 **Esempio Prompt:**
 ```
 Unisci creativamente queste due immagini: stupiscimi con una nuova immagine 
 creativa, originale e inaspettata!
 ```
 
-#### **Analisi Tecnica**
+#### **Analisi tecnica**
 **Esempio Applicazione:**
 - **Diagrammi scientifici**: Spiegazione Event Horizon Telescope network
 - **Schemi tecnici**: Interpretazione flussi di lavoro complessi
 - **Grafici dati**: Analisi visualizzazioni statistiche
 
-### **Integrazione con Strumenti Esterni**
+### **Integrazione con strumenti esterni**
 
 #### **Draw.io Integration**
 - **Generazione codice Mermaid**: Da sketch a diagramma professionale
@@ -932,22 +931,22 @@ creativa, originale e inaspettata!
 
 ## **🤖 CHATGPT GPTS: PERSONALIZZAZIONE AVANZATA**
 
-### **Cos'sono i GPTs**
+### **Cosa sono i GPTs**
 
 I **GPTs** sono versioni personalizzate di ChatGPT che riuniscono:
 - **Istruzioni specifiche**: Comportamenti customizzati
 - **Conoscenze aggiuntive**: Database specializzati
 - **Combinazioni di competenze**: Skills multiple integrate
 
-### **GPT Store: Categorie Principali**
+### **GPT Store: categorie principali**
 
-#### **Prime Scelte**
+#### **Prime scelte**
 - **Market Research and Competitive Analysis**: Expert assistant per insight marketing avanzati
 - **Code Tutor**: Assistant programmazione educativo by Khan Academy
 - **Writing Assistant**: Supporto scrittura ed editing enhanced
 - **SciSpace**: Ricerca scientifica con accesso a 287M+ papers
 
-#### **Categorie Specializzate**
+#### **Categorie specializzate**
 - **Scrittura**: Content creation, editing, copywriting
 - **Produttività**: Task automation, project management
 - **Ricerca e analisi**: Data mining, competitive intelligence
@@ -955,16 +954,16 @@ I **GPTs** sono versioni personalizzate di ChatGPT che riuniscono:
 - **Stile di vita**: Personal assistant, wellness coaching
 - **Programmazione**: Code review, debugging, development
 
-### **Creazione GPT Personalizzati**
+### **Creazione GPT personalizzati**
 
-#### **Processo di Configurazione**
+#### **Processo di configurazione**
 1. **Nome**: Identificativo univoco
 2. **Descrizione**: Breve summary funzionalità
 3. **Istruzioni**: Comportamenti e capabilities
 4. **Spunti conversazione**: Prompt suggeriti
 5. **Knowledge base**: Upload file specializzati
 
-### **Risorse Discovery GPT**
+### **Risorse discovery GPT**
 
 #### **GPTs Hunter**
 **URL**: https://www.gptshunter.com/
@@ -975,7 +974,7 @@ I **GPTs** sono versioni personalizzate di ChatGPT che riuniscono:
 - **Search API**: Per integrazione sviluppatori
 - **Featured collections**: GPT curati e di qualità
 
-**Categorie Popolari:**
+**Categorie popolari:**
 - **Productivity** (tool produttività)
 - **Developer tools** (strumenti sviluppo)
 - **Education assistant** (supporto educativo)
