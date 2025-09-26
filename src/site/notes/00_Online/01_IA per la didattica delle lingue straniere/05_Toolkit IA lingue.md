@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/05-toolkit-ia-lingue/","created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/05-toolkit-ia-lingue/","tags":["#Didattica"],"created":"2025-09-25"}
 ---
 
 # **TOOLKIT OPERATIVO: Prompt library e attività pratiche**

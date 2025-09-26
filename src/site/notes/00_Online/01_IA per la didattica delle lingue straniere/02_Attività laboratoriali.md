@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/02_Attività laboratoriali.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/02-attivita-laboratoriali/","created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/02_Attività laboratoriali.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/02-attivita-laboratoriali/","tags":["#Didattica"],"created":"2025-09-25"}
 ---
 
 # **LABORATORI PRATICI: IA Generativa per competenze linguistiche**
