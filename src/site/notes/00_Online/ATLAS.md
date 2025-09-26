@@ -82,7 +82,46 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 
 *Qui sotto trovi tutti i materiali organizzati per accompagnarti nel tuo percorso di trasformazione digitale. Ogni risorsa è stata testata sul campo e perfezionata attraverso centinaia di ore di formazione. Questo è un archivio in espansione con continui aggiornamenti.*
 
-![[Materiali.base]]
+### 🎓 Percorsi formativi completi
+```folder-overview
+id: 80193fc6-0ed0-462e-aed0-be0de024d920
+folderPath: ""
+title: "{{folderName}} overview"
+showTitle: false
+depth: 3
+style: explorer
+includeTypes:
+  - folder
+  - markdown
+disableFileTag: false
+sortBy: name
+sortByAsc: true
+showEmptyFolders: false
+onlyIncludeSubfolders: false
+storeFolderCondition: true
+showFolderNotes: true
+disableCollapseIcon: true
+alwaysCollapse: false
+autoSync: true
+allowDragAndDrop: true
+hideLinkList: true
+hideFolderOverview: false
+useActualLinks: true
+fmtpIntegration: false
+titleSize: 1
+isInCallout: false
+```
+<span class="fv-link-list-start" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
+- 01_IA per la didattica delle lingue straniere <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]] <span class="fv-link-list-item"></span>
+	- [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]] <span class="fv-link-list-item"></span>
+<span class="fv-link-list-end" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
+
 
 ---
 
@@ -90,7 +129,7 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 
 **LinkedIn:** [www.linkedin.com/in/giarrusso-atlas](http://www.linkedin.com/in/giarrusso-atlas)  
 **Facebook:** [https://www.facebook.com/francescogiarrusso1980](https://www.facebook.com/francescogiarrusso1980)  
-**Email:** giarrusso.f@gmail.com
+**Email:** giarrusso.f@gmail.com 
 
 ---
 
