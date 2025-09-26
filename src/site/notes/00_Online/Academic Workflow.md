@@ -142,7 +142,7 @@ L'approccio "top-down" e la sua "estrazione del filo argomentativo" sono descrit
 
 L'intero flusso di lavoro è un sistema straordinario per *rispondere* a domande o per *esplorare* concetti predefiniti. Ma la caratteristica distintiva del lavoro intellettuale di vertice non è la capacità di trovare risposte, ma la capacità di **formulare nuove e potenti domande**. Questo sistema non offre un percorso per la genesi della domanda. Anzi, la sua stessa efficienza rischia di riempire ogni spazio di tempo con l'attività della risposta, lasciando poco spazio per la noia, la riflessione non strutturata, la conversazione casuale — quei momenti "vuoti" da cui spesso emerge la domanda che cambia tutto.
  
-### Proposte: integrare la lentezza e l’attrito
+## Proposte: integrare la lentezza e l’attrito
 
 Un ricercatore di questo calibro non rifiuterebbe il Suo sistema. Lo adotterebbe, ma integrandovi dei "contrappesi" deliberati.
 
