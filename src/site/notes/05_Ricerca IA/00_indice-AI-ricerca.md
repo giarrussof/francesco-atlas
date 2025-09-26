@@ -20,34 +20,16 @@ L'approccio metodologico si basa sul **principio 80/20**: identificare il 20% de
 ---
 ## Indice completo
 
-- ### **Capitolo 1** - Fondamenti dell'intelligenza artificiale per la ricerca accademica
-
-
-- #### **Capitolo 2** - Strumenti essenziali di intelligenza artificiale per ricercatori
-
-
-- #### **Capitolo 3** - Tecniche di prompt engineering per la ricerca accademica
-
-
-- #### **Capitolo 4** - Revisione della letteratura e analisi bibliografica con l'intelligenza artificiale
-
-
-- #### **Capitolo 5** - Creazione di bot personalizzati per la ricerca accademica
-
-
-- #### **Capitolo 6** - Analisi dei dati e visualizzazione con l'intelligenza artificiale
-
-
-- #### **Capitolo 7** - Etica e integrità nella ricerca assistita dall'intelligenza artificiale
-
-
-- #### **Capitolo 8** - Gestione delle limitazioni e dei bias dei modelli di intelligenza artificiale
-
-
-- #### **Capitolo 9** - Workflow integrati ricercatore-intelligenza artificiale
-
-
-- #### **Capitolo 10** - Strumenti avanzati e tendenze future nell'intelligenza artificiale per la ricerca
+- **Capitolo 1** - Fondamenti dell'intelligenza artificiale per la ricerca accademica
+- **Capitolo 2** - Strumenti essenziali di intelligenza artificiale per ricercatori
+- **Capitolo 3** - Tecniche di prompt engineering per la ricerca accademica
+- **Capitolo 4** - Revisione della letteratura e analisi bibliografica con l'intelligenza artificiale
+- **Capitolo 5** - Creazione di bot personalizzati per la ricerca accademica
+- **Capitolo 6** - Analisi dei dati e visualizzazione con l'intelligenza artificiale
+- **Capitolo 7** - Etica e integrità nella ricerca assistita dall'intelligenza artificiale
+- **Capitolo 8** - Gestione delle limitazioni e dei bias dei modelli di intelligenza artificiale
+- **Capitolo 9** - Workflow integrati ricercatore-intelligenza artificiale
+- **Capitolo 10** - Strumenti avanzati e tendenze future nell'intelligenza artificiale per la ricerca
 
 ## Appendici
 
