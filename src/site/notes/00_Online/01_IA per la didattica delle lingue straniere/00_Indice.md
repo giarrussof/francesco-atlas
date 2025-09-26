@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/00_Indice.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/00-indice/","tags":["#Didattica","gardenEntry"],"created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/00_Indice.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/00-indice/","tags":["Didattica"],"created":"2025-09-25"}
 ---
 
 ## **INTELLIGENZA ARTIFICIALE GENERATIVA PER LA DIDATTICA DELLE LINGUE STRANIERE**
