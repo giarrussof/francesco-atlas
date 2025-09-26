@@ -82,7 +82,7 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 
 *Qui sotto trovi tutti i materiali organizzati per accompagnarti nel tuo percorso di trasformazione digitale. Ogni risorsa è stata testata sul campo e perfezionata attraverso centinaia di ore di formazione. Questo è un archivio in espansione con continui aggiornamenti.*
 
-### 🎓 Guide e materiali
+### 🎓 Percorsi di formazione
 ```folder-overview
 id: 80193fc6-0ed0-462e-aed0-be0de024d920
 folderPath: ""
@@ -112,38 +112,19 @@ titleSize: 1
 isInCallout: false
 ```
 
-```folder-overview
-id: 3e74b7da-b715-42d5-b426-2595d417b83e
-folderPath: ""
-title: "{{folderName}} overview"
-showTitle: false
-depth: 3
-style: list
-includeTypes:
-  - folder
-  - markdown
-disableFileTag: false
-sortBy: name
-sortByAsc: true
-showEmptyFolders: false
-onlyIncludeSubfolders: false
-storeFolderCondition: true
-showFolderNotes: false
-disableCollapseIcon: true
-alwaysCollapse: false
-autoSync: true
-allowDragAndDrop: true
-hideLinkList: true
-hideFolderOverview: false
-useActualLinks: false
-fmtpIntegration: false
-titleSize: 1
-isInCallout: false
-```
-
+- 01_IA per la didattica delle lingue straniere
+	- [[00_Online/01_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
 
 <span class="fv-link-list-end" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
-
+### 📖 Guide e materiali
+- [[00_Online/Academic Workflow\|Academic Workflow]]
+- [[00_Online/Plugin essenziali Obsidian\|Plugin essenziali Obsidian]]
 
 ---
 
