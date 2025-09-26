@@ -99,9 +99,8 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 
 ## 💬 **Connettiti con me**
 
-[[www.linkedin.com/in/giarrusso-atlas\|Linkedin]]  
-[[https://www.facebook.com/francescogiarrusso1980\|Facebook]]
-[[giarrusso.f@gmail.com\|Email]] 
+[Linkedin](www.linkedin.com/in/giarrusso-atlas)  
+[Facebook](https://www.facebook.com/francescogiarrusso1980)
 
 ---
 
