@@ -83,7 +83,6 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 *Qui sotto trovi tutti i materiali organizzati per accompagnarti nel tuo percorso di trasformazione digitale. Ogni risorsa è stata testata sul campo e perfezionata attraverso centinaia di ore di formazione. Questo è un archivio in espansione con continui aggiornamenti.*
 
 ### 🎓 Percorsi di formazione
-
 - 01_IA per la didattica delle lingue straniere
 	- [[00_Online/01_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
 	- [[00_Online/01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
@@ -92,8 +91,6 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 	- [[00_Online/01_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]]
 	- [[00_Online/01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
 	- [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
-
-<span class="fv-link-list-end" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
 ### 📖 Guide e materiali
 - [[00_Online/Academic Workflow\|Academic Workflow]]
 - [[00_Online/Plugin essenziali Obsidian\|Plugin essenziali Obsidian]]
