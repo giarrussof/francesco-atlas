@@ -3,7 +3,7 @@
 ---
 
 # **GUIDA PER IL DOCENTE:** 
-## Implementare l'IA generativa nella classe per l'insegnamento delle lingue straniere**
+## Implementare l'IA generativa nella classe per l'insegnamento delle lingue straniere
 
 ---
 
