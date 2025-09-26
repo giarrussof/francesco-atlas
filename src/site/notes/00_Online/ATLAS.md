@@ -104,23 +104,26 @@ disableCollapseIcon: true
 alwaysCollapse: false
 autoSync: true
 allowDragAndDrop: true
-hideLinkList: true
-hideFolderOverview: false
+hideLinkList: false
+hideFolderOverview: true
 useActualLinks: true
 fmtpIntegration: false
 titleSize: 1
 isInCallout: false
 ```
 <span class="fv-link-list-start" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
-- 01_IA per la didattica delle lingue straniere <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]] <span class="fv-link-list-item"></span>
-	- [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]] <span class="fv-link-list-item"></span>
+- 01_IA per la didattica delle lingue straniere
+	- [[00_Online/01_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
+	- [[00_Online/01_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
+- [[00_Online/02_Academic Workflow/Plugin essenziali Obsidian\|Plugin essenziali Obsidian]]
 <span class="fv-link-list-end" id="80193fc6-0ed0-462e-aed0-be0de024d920"></span>
+
+### 📖 Guide e manuali
 
 
 ---
