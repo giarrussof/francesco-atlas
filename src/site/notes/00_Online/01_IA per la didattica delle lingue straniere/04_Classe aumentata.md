@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/04_Classe aumentata.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/04-classe-aumentata/","tags":["#Didattica"],"created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/04_Classe aumentata.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/04-classe-aumentata/","created":"2025-09-25"}
 ---
 
 # **Didattiche ibride e scenari di classe aumentata**

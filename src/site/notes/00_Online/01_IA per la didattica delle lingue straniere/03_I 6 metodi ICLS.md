@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/03-i-6-metodi-icls/","tags":["#Didattica"],"created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/03-i-6-metodi-icls/","created":"2025-09-25"}
 ---
 
 # **I 6 metodi ICLS per ChatGPT nelle lingue**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02_Academic Workflow/Academic Workflow.md","permalink":"/02-academic-workflow/academic-workflow/","tags":["#RicercaPotenziata"],"created":"2025-09-26"}
+{"dg-publish":true,"dg-path":"02_Academic Workflow/Academic Workflow.md","permalink":"/02-academic-workflow/academic-workflow/","created":"2025-09-26"}
 ---
 
 # ACADEMIC WORKFLOW

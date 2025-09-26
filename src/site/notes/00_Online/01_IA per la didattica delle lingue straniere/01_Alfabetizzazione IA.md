@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/01-alfabetizzazione-ia/","tags":["#Didattica"],"created":"2025-09-25"}
+{"dg-publish":true,"dg-path":"01_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA.md","permalink":"/01-ia-per-la-didattica-delle-lingue-straniere/01-alfabetizzazione-ia/","created":"2025-09-25"}
 ---
 
 # **MODULO 0: Alfabetizzazione IA - Fondamenti operativi completi**
