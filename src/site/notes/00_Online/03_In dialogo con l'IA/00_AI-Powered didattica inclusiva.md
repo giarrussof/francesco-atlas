@@ -17,7 +17,7 @@ La **guida operativa** che fornisce il framework teorico-pratico con **esempi co
 - **Checklist implementazione** e troubleshooting comune
 
 
-## [[00_Online/03_In dialogo con l'IA/02_promptuario IA didattica\|Promptuario professionale]]
+## [[00_Online/03_In dialogo con l'IA/02_Promptuario IA didattica\|Promptuario professionale]]
 
 Una **libreria completa di prompt testati** organizzata per funzionalità, pronta all'uso immediato:
 
@@ -29,7 +29,7 @@ Una **libreria completa di prompt testati** organizzata per funzionalità, pront
 - **Convenzioni d'uso** e best practices per ottimizzazione
 
 
-## [[00_Online/03_In dialogo con l'IA/03_toolkit operativo IA didattica\|Toolkit operativo]]
+## [[00_Online/03_In dialogo con l'IA/03_Toolkit operativo IA didattica\|Toolkit operativo]]
 
 **Strumenti pratici immediati** per l'implementazione quotidiana:
 
@@ -41,7 +41,7 @@ Una **libreria completa di prompt testati** organizzata per funzionalità, pront
 - **Modelli comunicazione** per genitori, colleghi, dirigenza
 
 
-## [[00_Online/03_In dialogo con l'IA/04_guida IA docente\|Guida passo per passo per il docente]]
+## [[00_Online/03_In dialogo con l'IA/04_Guida IA docente\|Guida passo per passo per il docente]]
 
 Un **percorso di sviluppo professionale strutturato** per tutti i livelli di competenza:
 
