@@ -84,30 +84,30 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 
 ### 🎓 Percorsi di formazione
 - 01_IA per la didattica delle lingue straniere
-	- [[00_Online/__IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
-	- [[00_Online/__IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/03_I 6 metodi ICLS\|03_I 6 metodi ICLS]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/04_Classe aumentata\|04_Classe aumentata]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
+	- [[00_Online/_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
 
 - 02_Ricerca accademica con IA
-	- [[00_Online/__Ricerca accademica con IA/00_indice-AI-ricerca\|00_indice-AI-ricerca]]
+	- [[00_Online/_Ricerca accademica con IA/00_indice-AI-ricerca\|00_indice-AI-ricerca]]
 
 - 04_In dialogo con IA
-	- [[00_Online/__In dialogo con IA/00_AI-Powered didattica inclusiva\|00_AI-Powered didattica inclusiva]]
-	- [[00_Online/__In dialogo con IA/01_Guida pratica IA per docenti\|01_Guida pratica IA per docenti]]
-	- [[00_Online/__In dialogo con IA/02_Promptuario IA didattica\|02_Promptuario IA didattica]]
-	- [[00_Online/__In dialogo con IA/03_Toolkit operativo IA didattica\|03_Toolkit operativo IA didattica]]
-	- [[00_Online/__In dialogo con IA/04_Guida IA docente\|04_Guida IA docente]]
-	- [[00_Online/__In dialogo con IA/05_Guida flusso di lavoro didattica con IA\|05_Guida flusso di lavoro didattica con IA]]
-	- [[00_Online/__In dialogo con IA/06_Guida professionale Nano Banana\|06_Guida professionale Nano Banana]]
-	- [[00_Online/__In dialogo con IA/07_Guida docenti Nano Banana\|07_Guida docenti Nano Banana]]
-	- [[00_Online/__In dialogo con IA/08_Toolkit casi uso Nano Banana\|08_Toolkit casi uso Nano Banana]]
-	- [[00_Online/__In dialogo con IA/09_Glossario Nano Banana\|09_Glossario Nano Banana]]
-	- [[00_Online/__In dialogo con IA/10_Promptuario Nano Banana\|10_Promptuario Nano Banana]]
-	- [[00_Online/__In dialogo con IA/11_Guida rapida e casi d'uso Nano Banana\|11_Guida rapida e casi d'uso Nano Banana]]
+	- [[00_Online/_In dialogo con IA/00_AI-Powered didattica inclusiva\|00_AI-Powered didattica inclusiva]]
+	- [[00_Online/_In dialogo con IA/01_Guida pratica IA per docenti\|01_Guida pratica IA per docenti]]
+	- [[00_Online/_In dialogo con IA/02_Promptuario IA didattica\|02_Promptuario IA didattica]]
+	- [[00_Online/_In dialogo con IA/03_Toolkit operativo IA didattica\|03_Toolkit operativo IA didattica]]
+	- [[00_Online/_In dialogo con IA/04_Guida IA docente\|04_Guida IA docente]]
+	- [[00_Online/_In dialogo con IA/05_Guida flusso di lavoro didattica con IA\|05_Guida flusso di lavoro didattica con IA]]
+	- [[00_Online/_In dialogo con IA/06_Guida professionale Nano Banana\|06_Guida professionale Nano Banana]]
+	- [[00_Online/_In dialogo con IA/07_Guida docenti Nano Banana\|07_Guida docenti Nano Banana]]
+	- [[00_Online/_In dialogo con IA/08_Toolkit casi uso Nano Banana\|08_Toolkit casi uso Nano Banana]]
+	- [[00_Online/_In dialogo con IA/09_Glossario Nano Banana\|09_Glossario Nano Banana]]
+	- [[00_Online/_In dialogo con IA/10_Promptuario Nano Banana\|10_Promptuario Nano Banana]]
+	- [[00_Online/_In dialogo con IA/11_Guida rapida e casi d'uso Nano Banana\|11_Guida rapida e casi d'uso Nano Banana]]
 
 ### 📖 Guide e materiali
 - [[00_Online/Academic Workflow\|Academic Workflow]]
