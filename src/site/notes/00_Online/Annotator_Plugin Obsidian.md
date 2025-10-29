@@ -101,7 +101,7 @@ Puoi facilmente estrarre e incorporare le tue evidenziazioni in qualsiasi altra 
 
 ---
 
-## Utilità e funzioni del plugin annotator
+## Utilità e funzioni del plugin Annotator
 
 L'utilizzo di Annotator offre diversi benefici cruciali per il tuo Sistema di Gestione della Conoscenza (PKM) in Obsidian:
 
