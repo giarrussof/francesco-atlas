@@ -3,7 +3,7 @@
 ---
 
 
-## Guida dettagliata al plugin annotator
+## Guida dettagliata al plugin Annotator
 Il plugin Annotator è uno strumento potente per Obsidian che ti consente di leggere, evidenziare e annotare file in formato EPUB e PDF direttamente all'interno del tuo vault. La grande comodità è che tutte le tue evidenziazioni e annotazioni vengono salvate nel formato Markdown, garantendoti che tutti i contenuti siano in un unico posto, massimizzando la portabilità e la flessibilità.
 
 ### Fase 1: Installazione e preparazione dei file
