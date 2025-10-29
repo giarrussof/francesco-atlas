@@ -83,7 +83,7 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 *Qui sotto trovi tutti i materiali organizzati per accompagnarti nel tuo percorso di trasformazione digitale. Ogni risorsa è stata testata sul campo e perfezionata attraverso centinaia di ore di formazione. Questo è un archivio in espansione con continui aggiornamenti.*
 
 ### 🎓 Percorsi di formazione
-- 01_IA per la didattica delle lingue straniere
+- IA per la didattica delle lingue straniere
 	- [[00_Online/_IA per la didattica delle lingue straniere/00_Indice\|00_Indice]]
 	- [[00_Online/_IA per la didattica delle lingue straniere/01_Alfabetizzazione IA\|01_Alfabetizzazione IA]]
 	- [[00_Online/_IA per la didattica delle lingue straniere/02_Attività laboratoriali\|02_Attività laboratoriali]]
@@ -92,10 +92,10 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 	- [[00_Online/_IA per la didattica delle lingue straniere/05_Toolkit IA lingue\|05_Toolkit IA lingue]]
 	- [[00_Online/_IA per la didattica delle lingue straniere/06_Guida docente\|06_Guida docente]]
 
-- 02_Ricerca accademica con IA
+- Ricerca accademica con IA
 	- [[00_Online/_Ricerca accademica con IA/00_indice-AI-ricerca\|00_indice-AI-ricerca]]
 
-- 04_In dialogo con IA
+- In dialogo con IA
 	- [[00_Online/_In dialogo con IA/00_AI-Powered didattica inclusiva\|00_AI-Powered didattica inclusiva]]
 	- [[00_Online/_In dialogo con IA/01_Guida pratica IA per docenti\|01_Guida pratica IA per docenti]]
 	- [[00_Online/_In dialogo con IA/02_Promptuario IA didattica\|02_Promptuario IA didattica]]
@@ -109,10 +109,17 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 	- [[00_Online/_In dialogo con IA/10_Promptuario Nano Banana\|10_Promptuario Nano Banana]]
 	- [[00_Online/_In dialogo con IA/11_Guida rapida e casi d'uso Nano Banana\|11_Guida rapida e casi d'uso Nano Banana]]
 
+- Pre-produzione audiovisiva e storyboarding con l'IA
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/00_Introduzione al corso di Pre-produzione audiovisiva IA\|00_Introduzione al corso di Pre-produzione audiovisiva IA]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/01_Introduzione all'intelligenza artificiale generativa\|01_Introduzione all'intelligenza artificiale generativa]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/02_Accendere la scintilla con l'IA\|02_Accendere la scintilla con l'IA]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/03_Un percorso collaborativo con l'IA\|03_Un percorso collaborativo con l'IA]]
+
 ### 📖 Guide e materiali
 - [[00_Online/Academic Workflow\|Academic Workflow]]
 - [[00_Online/Plugin essenziali Obsidian\|Plugin essenziali Obsidian]]
-- [[Apprendimento Perplexity + ChatGPT\|Apprendimento Perplexity + ChatGPT]] 
+- [[00_Online/Apprendimento Perplexity + ChatGPT\|Apprendimento Perplexity + ChatGPT]] 
+- [[00_Online/Annotator_Plugin Obsidian\|Annotator_Plugin Obsidian]]
 
 ---
 
