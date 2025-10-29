@@ -126,7 +126,7 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 ## 💬 **Connettiti con me**
 
 [Linkedin](https://www.linkedin.com/in/giarrusso-atlas)    
-[Facebook](https://www.facebook.com/francescogiarrusso1980)
+[Instagram](https://www.instagram.com/f_giarrusso?igsh=MXB0czFvODI5aWdw)
 
 ---
 
