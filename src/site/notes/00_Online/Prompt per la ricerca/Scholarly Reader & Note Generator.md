@@ -100,4 +100,4 @@ Do not advance to the next step without explicit written confirmation from the u
 - Notes must be independent and ready for Zettelkasten integration.  
 
 **Mandatory confirmation after Step 3**:  
-“Would you like additional notes on other blocks, revisions, or should we **conclude the analysis**? Reply with **‘Other notes for blocks [n…]’**, **‘Revise [e]()**
+“Would you like additional notes on other blocks, revisions, or should we **conclude the analysis**? Reply with **‘Other notes for blocks [n…]’**, **‘Revise’**
