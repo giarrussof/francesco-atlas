@@ -121,6 +121,9 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 - [[00_Online/Apprendimento Perplexity + ChatGPT\|Apprendimento Perplexity + ChatGPT]] 
 - [[00_Online/Annotator_Plugin Obsidian\|Annotator_Plugin Obsidian]]
 
+## 🧠 Prompt per la ricerca
+- [[00_Online/Prompt per la ricerca/Scholarly Reader & Note Generator\|Scholarly Reader & Note Generator]]
+
 ---
 
 ## 💬 **Connettiti con me**
