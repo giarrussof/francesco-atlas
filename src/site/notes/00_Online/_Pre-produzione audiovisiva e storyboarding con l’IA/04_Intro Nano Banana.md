@@ -291,5 +291,13 @@ Al termine del modulo, ogni studente/ssa produrrà:
 - Boords – 28 Best Storyboard Examples: [https://boords.com/storyboard-examples](https://boords.com/storyboard-examples)
 
 ---
+## 10 Risorse aggiuntive
 
+#### Link utili
+- **Accesso gratuito**: [aistudio.google.com](https://aistudio.google.com)
+- **Documentazione ufficiale**: [ai.google.dev/gemini-api/docs/image-generation](https://ai.google.dev/gemini-api/docs/image-generation)
+- **Github**:  [Casi d'uso Nano Banana](https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md#example-91-train-station-movie-poster-by-ai_kei75)
+- **Community Educatori**: Forum e gruppi Facebook "AI per la Didattica"
+
+---
 **Nota finale:** Tutti i link sono stati verificati alla data di dicembre 2025.

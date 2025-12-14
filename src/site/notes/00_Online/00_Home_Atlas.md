@@ -3,7 +3,6 @@
 ---
 
 # ATLAS
-
 ## Il luogo dove l'intelligenza artificiale incontra la conoscenza
 
 ---
@@ -14,7 +13,7 @@
 
 ## 👋 **Chi sono**
 
-Sono **Francesco Giarrusso**, ricercatore e formatore specializzato nell'integrazione tra intelligenza artificiale e processi di conoscenza.
+Sono **Francesco Giarrusso**, ricercatore in cinema e cultura visuale e formatore specializzato nell'integrazione dell'intelligenza artificiale nei processi di conoscenza.
 
 La mia storia inizia nel mondo del cinema e dell'audiovisivo. Per anni ho lavorato come regista e ricercatore in Portogallo, esplorando il rapporto tra immagine, narrazione e ricerca. Dal 2013 al 2022 sono stato ricercatore universitario presso l'Università di Lisbona, dove ho approfondito il legame tra la cultura visuale e le scienze.
 
@@ -22,19 +21,15 @@ La mia storia inizia nel mondo del cinema e dell'audiovisivo. Per anni ho lavora
 
 Nel 2024, mentre sviluppavo corsi di formazione sull'IA generativa per docenti universitari e delle scuole secondarie, ho vissuto sulla mia pelle la stessa frustrazione di ogni ricercatore: **passare più tempo a cercare la conoscenza che a crearla**.
 
-Sei mai rimasto sveglio fino alle 3 del mattino a cercare articoli per una literature review, solo per renderti conto che dopo 6 ore avevi trovato 3 paper davvero utili? Io sì. E non solo una volta.
-
 ### **La nascita di Atlas**
 
-Da questa frustrazione è nato **Atlas** - non un semplice set di strumenti, ma una metodologia completa che trasforma il modo di fare ricerca e insegnamento integrando strumenti digitali e l'intelligenza artificiale generativa.
+Da questa frustrazione è nato **Atlas**, non un semplice set di strumenti, ma una metodologia completa che trasforma il modo di fare ricerca e insegnamento integrando strumenti digitali e l'intelligenza artificiale generativa.
 
-Mentre altri vendono "prompt magici" o "trucchi per ChatGPT", io insegno a **orchestrare l'intelligenza artificiale come un direttore d'orchestra**. Tu rimani il maestro, l'IA diventa il tuo strumento più potente.
+Mentre altri vendono "prompt magici" o "trucchi per ChatGPT", io insegno a utilizzare l'intelligenza artificiale come un direttore d'orchestra**. Tu rimani il maestro, l'IA diventa il tuo strumento più potente.
 
 ---
 
 ## 🎯 **Cosa faccio oggi**
-
-**Cultore della materia** in *Pragmatica della comunicazione mediale* all'Università Cattolica del Sacro Cuore, dove continuo la mia ricerca sulle immagini tecniche tra visual studies e archeologia dei media.
 
 **Docente a contratto** di *Lab.: Scritture per audiovisivo* all'Università Cattolica del Sacro Cuore.
 
@@ -42,19 +37,7 @@ Mentre altri vendono "prompt magici" o "trucchi per ChatGPT", io insegno a **orc
 
 **Formatore esperto** in IA generativa per la didattica e la ricerca, con oltre 200 ore di formazione erogate a docenti delle scuole secondarie e universitari.
 
-**Formatore esperto** - Operatori di Educazione Visiva a Scuola (CIPS) per progetti nazionali come "Behind the Light II" della Fondazione Cineteca Italiana e "Narrazioni Transmediali" del Liceo Artistico Manzù di Bergamo.
-
----
-
-## 📊 **I risultati parlano chiaro**
-
-I ricercatori e docenti che applicano le metodologie Atlas ottengono:
-
-- **60% di riduzione** del tempo dedicato alla literature review
-- **40% di aumento** della qualità degli output di ricerca
-- **Oltre 150 docenti** formati nelle metodologie Atlas
-
-Non è magia: è metodo.
+**Formatore esperto** - Operatori di Educazione Visiva a Scuola (CIPS) per progetti nazionali, territoriali e presso istituti scolastici.
 
 ---
 
@@ -114,6 +97,11 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/01_Introduzione all'intelligenza artificiale generativa\|01_Introduzione all'intelligenza artificiale generativa]]
 	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/02_Accendere la scintilla con l'IA\|02_Accendere la scintilla con l'IA]]
 	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/03_Un percorso collaborativo con l'IA\|03_Un percorso collaborativo con l'IA]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/04_Intro Nano Banana\|04_Intro Nano Banana]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/05_Template Prompt\|05_Template Prompt]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/06_Workflow Storyboard\|06_Workflow Storyboard]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/07_Case Study_100s\|07_Case Study_100s]]
+	- [[00_Online/_Pre-produzione audiovisiva e storyboarding con l’IA/08_Esercizi didattici\|08_Esercizi didattici]]
 
 ### 📖 Guide e materiali
 - [[00_Online/Academic Workflow\|Academic Workflow]]
@@ -129,7 +117,8 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 ## 💬 **Connettiti con me**
 
 [Linkedin](https://www.linkedin.com/in/giarrusso-atlas)    
-[Instagram](https://www.instagram.com/f_giarrusso?igsh=MXB0czFvODI5aWdw)
+[Instagram](https://www.instagram.com/f_giarrusso?igsh=MXB0czFvODI5aWdw) 
+[Telegram](https://t.me/+sKhagDgZ7OVkZmZk)
 
 ---
 

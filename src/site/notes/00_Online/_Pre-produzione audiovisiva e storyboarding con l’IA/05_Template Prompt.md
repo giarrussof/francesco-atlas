@@ -14,8 +14,7 @@ Questa dispensa raccoglie **template di prompt riusabili** in italiano per gener
 **Uso:** scene di corto, clip didattiche, micro‑narrazioni.
 
 ```text
-Crea uno storyboard cinematografico in [stile: es. bozzetto a matita per storyboard, bianco e nero, segni rapidi] 
-composto da [6] riquadri, per la seguente scena:
+Crea uno storyboard cinematografico in [stile: es. bozzetto a matita per storyboard, bianco e nero, segni rapidi] composto da [6] riquadri, per la seguente scena:
 
 [Descrivi in 6–8 righe la scena: contesto, conflitto, svolta, risoluzione.]
 
@@ -23,8 +22,7 @@ Vincoli:
 - Usa lo stesso personaggio principale definito nell'immagine di riferimento [Image 1], mantenendo identici i tratti del viso, il taglio di capelli e le proporzioni del corpo.
 - Ogni riquadro deve avere un tipo di inquadratura chiaro 
   (es. establishing shot, medium shot, close-up, over-the-shoulder, POV).
-- Mantieni la stessa ambientazione di base, ma lascia vedere l'evoluzione della scena 
-  (cambi di posizione dei personaggi, piccoli cambi di luce, oggetti spostati).
+- Mantieni la stessa ambientazione di base, ma lascia vedere l'evoluzione della scena (cambi di posizione dei personaggi, piccoli cambi di luce, oggetti spostati).
 - Stile visivo coerente in tutti i riquadri.
 
 Impostazione:
