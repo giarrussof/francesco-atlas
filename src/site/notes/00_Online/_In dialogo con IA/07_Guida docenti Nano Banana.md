@@ -36,7 +36,6 @@
 1. Vai su [aistudio.google.com](https://aistudio.google.com)
 2. Accedi con account Google istituzionale
 3. Seleziona "Gemini 2.5 Flash" dal menu modelli
-4. Limite: ~10 immagini gratuite al giorno
 
 ### Step 2: Configurazione classe
 

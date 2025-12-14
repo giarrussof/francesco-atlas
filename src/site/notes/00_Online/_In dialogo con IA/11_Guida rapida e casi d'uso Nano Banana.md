@@ -13,15 +13,6 @@
 
 **Nano Banana** è il nome colloquiale di **Gemini 2.5 Flash Image**, il modello di generazione e editing di immagini AI più avanzato di Google, rilasciato il 25 agosto 2025.
 
-### Caratteristiche tecniche documentate
-
-- **Velocità**: <10 secondi per generazioni complesse
-- **Multi-image Fusion**: Fino a 3 immagini simultanee
-- **Character Consistency**: Mantenimento identità cross-session
-- **Conversational Editing**: Modifiche iterative context-aware
-- **Text Rendering**: Testo leggibile e accurato nelle immagini
-- **Costo**: $30.00 per 1M token (~$0.039 per immagine)
-
 ## Accesso rapido
 
 ### Setup in 3 minuti
@@ -33,19 +24,6 @@
    3. Seleziona "Gemini 2.5 Flash" dal menu modelli
    4. Inizia con il prompt di test qui sotto
    ```
-
-5. **Prompt di test verificato**
-   ```
-   Crea una figurina commerciale in scala 1/7 del personaggio nell'immagine, 
-   in stile realistico, in un ambiente reale. La figurina è posizionata su 
-   una scrivania del computer con una base acrilica trasparente rotonda senza testo.
-   ```
-
-6. **Verifica funzionalità**
-   - ✅ Immagine generata in <30 secondi
-   - ✅ Qualità professionale 4K
-   - ✅ Elementi richiesti presenti
-   - ✅ Stile coerente con richiesta
 
 ## Primi passi
 
@@ -303,26 +281,6 @@ Aggiungi sempre:
 
 **Fonte**: [Dev.to - How to build with Nano Banana: Complete Developer Tutorial](https://dev.to/googleai/how-to-build-with-nano-banana-complete-developer-tutorial-646)
 
-### Best Practices validate
-
-#### Input Quality (CometAPI Guidelines)
-- ✅ Usa immagini >1080p per evitare upscaling artifacts
-- ✅ Evita forte controluce o multi-soggetti
-- ✅ Fornisci soggetti singoli e chiari
-- ❌ Non usare filtri pesanti pre-processing
-
-#### Prompt Optimization (AtlabsAI)
-- ✅ Includi specifiche: soggetto, ambiente, illuminazione, stile
-- ✅ Mantieni testo aggiunto <25 caratteri per chiarezza
-- ✅ Specifica rapporti aspetto per piattaforma target
-- ❌ Evita termini vaghi come "bella immagine"
-
-#### Technical Specs (Google Official)
-- **Formati supportati**: JPG, PNG, WebP
-- **Dimensioni max input**: 20MB
-- **Risoluzione output**: Fino a 4K
-- **Lingue**: Inglese (optimal), Italiano (supported)
-
 ## Risorse aggiuntive
 
 ### Documentazione Ufficiale
@@ -340,29 +298,5 @@ Aggiungi sempre:
 - [Google AI Community](https://developers.googleblog.com) - Forum ufficiale
 - [YouTube Tutorials](https://www.youtube.com/results?search_query=nano+banana+tutorial) - Video guide
 
-### Metriche e Analytics
-- **Utilizzo Globale**: 10M+ immagini generate (Set 2025)
-- **Adoption Rate**: +300% crescita month-over-month
-- **User Satisfaction**: 4.6/5 rating medio (Google Play Store)
-- **Performance**: 94% successo rate prima generazione
 
----
 
-## Contribute
-
-Questa guida è basata su ricerca approfondita di 60+ fonti verificate e test pratici. Per contribuire:
-
-1. **Issue**: Segnala errori o aggiornamenti necessari
-2. **Pull Request**: Proponi miglioramenti con fonti verificate
-3. **Documentation**: Condividi casi d'uso e risultati attestati
-
-## License
-
-Questo documento è rilasciato per scopi educativi. I brand e trademark appartengono ai rispettivi proprietari.
-
-**Google**, **Gemini**, **Nano Banana** sono trademark di Google LLC.
-
----
-
-*Ultimo aggiornamento: Settembre 2025*  
-*Basato su ricerca di 60+ fonti verificate e casi d'uso documentati*
