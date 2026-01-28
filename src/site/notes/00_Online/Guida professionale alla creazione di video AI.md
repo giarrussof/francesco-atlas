@@ -20,18 +20,6 @@ Questa guida illustra come orchestrare questi strumenti per ottenere risultati d
 
 ---
 
-## Indice dei contenuti
-
-1. [[#Fase 1 Fondamenta e coerenza visiva]]
-2. [[#Fase 2 Generazione degli asset]]
-3. [[#Fase 3 Pianificazione cinematografica la Shot List]]
-4. [[#Fase 4 Animazione e generazione video]]
-5. [[#Fase 5 Controllo delle performance e audio]]
-6. [[#Fase 6 Montaggio, editing e upscaling]]
-7. [[#Appendice gestione dei fallimenti]]
-
----
-
 # Fase 1: Fondamenta e coerenza visiva
 
 Prima di generare qualsiasi immagine, devi definire con precisione l'identità visiva del tuo progetto. Questa fase determina la palette cromatica, la qualità della luce e la texture che attraverseranno ogni inquadratura.
