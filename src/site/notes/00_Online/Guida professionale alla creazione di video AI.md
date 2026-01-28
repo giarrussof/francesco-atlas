@@ -41,6 +41,7 @@ Invece di scrivere prompt complessi sperando che l'IA indovini il tuo gusto, use
     - `analog futurism aesthetic` — tecnologia del futuro immaginata col design del passato
     - `Nostromo interior` — riferimento diretto alla nave di _Alien_
 
+
 ## 1.2 Raffinamento del mood
 
 Una volta individuata un'immagine vicina alla tua visione:
@@ -53,6 +54,7 @@ Una volta individuata un'immagine vicina alla tua visione:
     - La **texture**: metallo corroso, condensa, vapore, superfici industriali
     - La **grana**: 35mm, leggermente sovraesposta nelle alte luci
 
+
 ## 1.3 Creazione della Style Guide (Moodboard)
 
 Consolida i riferimenti in un unico file che fungerà da ancora visiva per l'intera produzione.
@@ -61,6 +63,7 @@ Consolida i riferimenti in un unico file che fungerà da ancora visiva per l'int
 2. Salva il file con un nome descrittivo: `retro-scifi-style-guide.png`
 
 **Motivazione tecnica:** Un'unica immagine di riferimento è più efficace per i modelli IA rispetto a file multipli. Evita che il modello dia priorità arbitraria a un'immagine rispetto alle altre.
+
 
 ## 1.4 Definizione del DNA visivo nei prompt
 
@@ -74,6 +77,7 @@ Estrai 4-5 parole chiave ricorrenti dai prompt delle immagini selezionate nella 
 - `orange and teal color grading`: la palette dominante del genere
 - `CRT scan lines`: linee di scansione dei monitor a tubo catodico
 - `industrial decay`: usura, ruggine, sporcizia tecnologica
+
 
 ## 1.5 Implementazione tecnica: il parametro `--sref`
 
@@ -114,6 +118,7 @@ industrial atmosphere
 
 4. Genera diverse varianti (batch da 4) e seleziona quella che diventerà il riferimento per l'intero progetto.
 
+
 ## 2.2 Applicazione della coerenza (Character Reference)
 
 Una volta ottenuta l'immagine ideale del personaggio:
@@ -139,6 +144,7 @@ behind her, same character, same flight suit
 ```
 
 3. Se l'IA aggiunge elementi indesiderati, usa il riferimento immagine e chiedi specificamente la rimozione: "Remove the helmet, keep everything else identical."
+
 
 ## 2.3 Creazione degli ambienti (Set Consistency)
 
@@ -177,6 +183,7 @@ faded corporate logos, loading crane in the background, puddles of
 coolant on the floor, same 70s sci-fi aesthetic as the bridge
 ```
 
+
 ## 2.4 Gestione degli oggetti (Consistent Items)
 
 Se lo script prevede oggetti specifici che appaiono in più scene, generali separatamente.
@@ -198,6 +205,7 @@ product shot lighting, Alien movie prop aesthetic
     - Maschera l'area dove vuoi l'oggetto
     - Carica l'immagine dell'oggetto come riferimento
     - Prompt: "Add the uploaded motion tracker device in the marked area, match the scene lighting"
+
 
 ## 2.5 Parametri tecnici
 
@@ -233,6 +241,7 @@ Prima di generare qualsiasi immagine, devi sapere cosa vuoi vedere.
 | Conferma           | Shot 05: Over-the-shoulder: lei guarda attraverso l'oblò                 |
 | Decisione          | Shot 06: Low angle: si alza, determinata                                 |
 
+
 ## 3.2 Vocabolario delle inquadrature
 
 Usa i termini corretti nei prompt per forzare l'IA a comporre l'immagine come serve al montaggio.
@@ -254,6 +263,7 @@ Usa i termini corretti nei prompt per forzare l'IA a comporre l'immagine come se
 - **Dutch Angle**: Camera inclinata. Crea disagio, tensione, sensazione che qualcosa non va. Usalo con parsimonia.
 - **Over-the-shoulder**: Dietro la spalla di un personaggio, guardando l'altro o l'ambiente. Collante visivo delle scene di dialogo.
 
+
 ## 3.3 Shot List completa: esempio retro sci-fi
 
 **Scena: "Allarme di prossimità"**
@@ -272,6 +282,7 @@ Usa i termini corretti nei prompt per forzare l'IA a comporre l'immagine come se
 |10|Medium|Eye level|Vasquez cammina verso l'oblò, luci rosse pulsanti|Movimento verso la rivelazione|
 |11|Over-the-shoulder|—|Attraverso l'oblò: qualcosa di scuro si avvicina, ancora indistinto|Suspense|
 |12|Extreme close-up|—|Gli occhi di Vasquez riflettono qualcosa, si allargano|Cliffhanger emotivo|
+
 
 ## 3.4 Generazione dei frame statici
 
@@ -324,6 +335,7 @@ Ogni engine ha caratteristiche specifiche. La scelta dipende dal tipo di shot.
 
 **Nota:** Queste valutazioni riflettono lo stato dei modelli al momento della redazione. Verifica le prestazioni correnti.
 
+
 ## 4.2 Struttura del video prompt
 
 Un prompt video efficace non deve ridescrivere l'estetica (già definita dal frame statico), ma specificare il cambiamento nel tempo.
@@ -351,6 +363,7 @@ pulsing in the background, steam vents burst briefly from overhead pipes,
 dust particles visible in the light beams
 ```
 
+
 ## 4.3 Vocabolario dei movimenti di camera
 
 **Movimenti da inserire nei prompt:**
@@ -367,6 +380,7 @@ dust particles visible in the light beams
 **Movimenti avanzati:**
 
 - **Dolly zoom (Vertigo effect)**: La camera si muove in una direzione mentre lo zoom va nella direzione opposta. Crea distorsione prospettica. Difficile da ottenere solo con prompt; usa i preset specifici se disponibili.
+
 
 ## 4.4 Tecnica Start & End Frame (Keyframing)
 
@@ -387,6 +401,7 @@ Questa tecnica forza l'IA a seguire un percorso preciso, evitando che inventi co
 
 L'IA calcolerà i fotogrammi intermedi (tweening) garantendo che inizio e fine corrispondano alla tua Shot List.
 
+
 ## 4.5 Ambient Actions per il retro sci-fi
 
 I micro-movimenti di sfondo evitano l'effetto "statua di cera" tipico dei video IA di bassa qualità. Per il genere retro sci-fi:
@@ -401,12 +416,14 @@ I micro-movimenti di sfondo evitano l'effetto "statua di cera" tipico dei video 
 
 Includi sempre 1-2 ambient actions in ogni prompt video.
 
+
 ## 4.6 Parametri di generazione
 
 - **Risoluzione:** 1080p
 - **Frame rate:** 24fps per look cinematografico
 - **Audio:** Se usi Veo 3.1 e intendi comporre l'audio separatamente, aggiungi `--no music` per ottenere solo dialoghi e SFX
 - **Durata:** Le clip AI sono tipicamente 5-10 secondi. Pianifica di conseguenza.
+
 
 ## 4.7 Gestione della censura
 
@@ -440,6 +457,7 @@ La tecnica del Motion Control usa un video reale per guidare i movimenti di un p
 - Sfondo neutro preferibile
 - Movimenti chiari e leggermente esagerati (l'IA perde le sottigliezze)
 
+
 ## 5.2 Voice Transformation con ElevenLabs
 
 Per il genere retro sci-fi, le voci devono avere caratteristiche specifiche.
@@ -470,6 +488,7 @@ Per il genere retro sci-fi, le voci devono avere caratteristiche specifiche.
 
 **Importante:** Salva la voce personalizzata. Usare lo stesso Voice Model per tutte le battute del personaggio garantisce coerenza.
 
+
 ## 5.3 Voice Isolator
 
 Se hai generato clip con audio integrato (es. Veo 3.1) e devi separare le componenti:
@@ -477,6 +496,7 @@ Se hai generato clip con audio integrato (es. Veo 3.1) e devi separare le compon
 1. Carica il video o l'audio in **Voice Isolator** (ElevenLabs).
 2. Lo strumento separa: dialoghi, musica, effetti ambiente.
 3. Esporta le tracce separate per il mixaggio.
+
 
 ## 5.4 Sound Design specifico per retro sci-fi
 
@@ -531,6 +551,7 @@ L'IA genera le clip, ma il montaggio le trasforma in narrazione. Usa Premiere Pr
 - Dissolvenze incrociate solo per passaggi temporali
 - Evita transizioni elaborate che distraggono dalla qualità dell'immagine
 
+
 ## 6.2 Editing generativo: correggere senza rigenerare
 
 Se una clip è valida nel movimento ma ha errori di dettaglio, usa strumenti di editing generativo (es. Kling 01 Edit).
@@ -549,6 +570,7 @@ Se una clip è valida nel movimento ma ha errori di dettaglio, usa strumenti di 
 
 **Vantaggio:** L'animazione originale resta intatta; cambiano solo texture o oggetti specifici.
 
+
 ## 6.3 Upscaling a 4K
 
 La maggior parte dei modelli genera a 720p-1080p con leggera sfocatura. L'upscaling è essenziale.
@@ -564,6 +586,7 @@ La maggior parte dei modelli genera a 720p-1080p con leggera sfocatura. L'upscal
 - Denoise: attivo (rimuove artefatti IA)
 - Face Recovery: attivo se il protagonista è in primo piano
 - Frame Interpolation: opzionale — porta da 24fps a 48/60fps per maggiore fluidità o slow-motion
+
 
 ## 6.4 Color grading per retro sci-fi
 
@@ -587,6 +610,7 @@ Per unificare clip con variazioni cromatiche e ottenere il look del periodo:
 
 - 2.39:1 per look anamorphic cinematografico
 - Aggiungi letterboxing se hai lavorato in 16:9
+
 
 ## 6.5 Elementi specifici per il retro sci-fi
 
@@ -622,6 +646,7 @@ La guida principale presenta un workflow ideale. La realtà della produzione IA 
 3. Se il drift è minimo, correggi in post con editing generativo
 4. Se il drift è severo, rigenera partendo dal Master
 
+
 ## A.2 Allucinazioni ricorrenti
 
 **Problema:** Mani con dita extra, oggetti che appaiono/scompaiono, elementi spaziali inconsistenti.
@@ -632,6 +657,7 @@ La guida principale presenta un workflow ideale. La realtà della produzione IA 
 2. Per oggetti fantasma: usa l'inpainting per rimuoverli
 3. Per inconsistenze spaziali: verifica che ogni prompt includa gli stessi elementi ambientali
 4. Genera più varianti e seleziona quella senza allucinazioni
+
 
 ## A.3 Aggiornamenti dei modelli
 
@@ -644,6 +670,7 @@ La guida principale presenta un workflow ideale. La realtà della produzione IA 
 3. Se il modello cambia durante la produzione, potresti dover rigenerare per coerenza
 4. Mantieni backup di tutti gli asset generati
 
+
 ## A.4 Censura inaspettata
 
 **Problema:** Prompt che funzionavano vengono bloccati senza motivo apparente.
@@ -654,6 +681,7 @@ La guida principale presenta un workflow ideale. La realtà della produzione IA 
 2. Dividi l'azione in momenti separati meno intensi
 3. Prova un modello diverso
 4. Per scene che richiedono impatto visivo, suggerisci l'azione invece di mostrarla (tecnica cinematografica classica)
+
 
 ## A.5 Incoerenza cross-piattaforma
 
