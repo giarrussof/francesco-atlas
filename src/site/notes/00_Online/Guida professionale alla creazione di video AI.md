@@ -8,8 +8,6 @@
 
 ### Dallo storyboard al 4K: un workflow cinematografico completo
 
-#### Applicazione pratica: genere Retro Sci-Fi (estetica anni '70-'80)
-
 ---
 
 L'evoluzione degli strumenti di IA generativa ha rimosso la barriera tecnica, spostando il focus dalla "capacità di programmare" alla "visione creativa". Il problema principale della produzione video AI, la coerenza tra le inquadrature, è oggi risolvibile attraverso un metodo strutturato che combina diversi modelli specializzati.
