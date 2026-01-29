@@ -6,7 +6,7 @@
 
 # Guida essenziale alla creazione di video AI
 
-### Dallo storyboard al 4K: un workflow cinematografico completo
+### Dallo storyboard al video: un workflow cinematografico completo
 
 ---
 
