@@ -109,6 +109,8 @@ Se anche tu credi che la conoscenza meriti di più, più tempo e maggiore qualit
 - [[00_Online/Apprendimento Perplexity + ChatGPT\|Apprendimento Perplexity + ChatGPT]] 
 - [[00_Online/Annotator_Plugin Obsidian\|Annotator_Plugin Obsidian]]
 - [[00_Online/Guida essenziale alla creazione di video AI\|Guida essenziale alla creazione di video AI]]
+- [[00_Online/Guida Cinema Studio 2\|Guida Cinema Studio 2]]
+- [[00_Online/Vademecum Cinema Studio 2\|Vademecum Cinema Studio 2]]
 
 ## 🧠 Prompt per la ricerca
 - [[00_Online/Prompt per la ricerca/Scholarly Reader & Note Generator\|Scholarly Reader & Note Generator]]
